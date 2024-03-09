@@ -1,4 +1,4 @@
-# Step by step example
+### The power of biological databases
 
 Let's assume we have laboratory results from patients suffering from head and neck cancer.
 
