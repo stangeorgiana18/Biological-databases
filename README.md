@@ -36,7 +36,7 @@ The volume of data for researchers in life sciences can double every six months,
 
 **Composite databases:** Combine various primary databases, eliminating the need for separate searches.
 
-![Biological Databases](https://raw.githubusercontent.com/username/repo/master/images/data-tranfer-db.png)
+![Biological Databases](./images/data-tranfer-db.png)
 
 ## Human-Related Databases
 
