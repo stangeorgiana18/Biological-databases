@@ -23,12 +23,12 @@ To better understand the start and the end position, if, for instance, a genomic
 
 The above table concludes that the common genes affected along the 11q.13.3 region are: CCND1, ORAOV1, FGF19, FGF4, FGF3. I summed this information up visually and using Excel files. You can imagine that this is not an effective approach, especially for a large dataset.
 
-![final_result.png](./images/final_result.png)
+![final_result.png](../images/final_result.png)
 
 Next steps would be to:
 
 - Find this common region in the Genome Browser database:
-![genome_br.png](./images/genome_br.png)
+![genome_br.png](../images/genome_br.png)
 
   > We can notice the genes of interest and by clicking on one of them, we can find out if it's relevant or not regarding our data. For instance, [CCND1](https://genome.ucsc.edu/cgi-bin/hgGene?hgg_gene=ENST00000227507.3&hgg_chrom=chr11&hgg_start=69641155&hgg_end=69654474&hgg_type=knownGene&db=hg38) proves "interact with tumor suppressor protein Rb and the expression of this gene is regulated positively by Rb. Mutations, amplification and overexpression of this gene, which alters cell cycle progression, are observed frequently in a variety of human cancers."
 
